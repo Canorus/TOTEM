@@ -4,6 +4,19 @@
   <img alt="TOTEM logo" src="/docs/images/TOTEM_logo_dark.svg">
 </picture>
 
+<h1 align="center">DESCRIPTION</h1>
+
+Work In Progress..
+
+This repository contains personal modified version of keyboard, temporarily dubbed TOTEM ULP, alongside original contents from TOTEM splitkeyboard by GEIGEIGEIST. TOTEM ULP features:
+
+- Kailh PG1365S ULP switch
+- Rectagular case for better tenting and portability.
+- nrf52840 pro micro instead of xiao BLE
+- less aggressive splay layout following personal taste.
+
+Find ULP directory under PCB and Case directory for data.
+
 <h1 align="center">T O T E M</h1>
 
 TOTEM is a 38 key column-staggered choc split keyboard. It is meant to be used with a [Seeed Studio XIAO nRF52840 BLE](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) or [XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html).
